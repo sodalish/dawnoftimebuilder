@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"i  ",
+		"IXI",
+		"i i"
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:waxed_oak_planks_slab"
+		},
+		"X": {
+			"item": "ancientarchi:thatch_wheat"
+		},
+		"i": {
+			"tag": "forge:rods/wooden"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:waxed_oak_chair"
+	}
+}

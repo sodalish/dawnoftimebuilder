@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "ancientarchi:block/flat_roof_tiles",
+        "top": "ancientarchi:block/flat_roof_tiles",
+        "side": "ancientarchi:block/flat_roof_tiles"
+    }
+}

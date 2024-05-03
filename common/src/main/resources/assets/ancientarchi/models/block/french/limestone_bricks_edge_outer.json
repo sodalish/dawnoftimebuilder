@@ -1,0 +1,7 @@
+{
+	"parent": "ancientarchi:block/general/small_plate_outer",
+	"textures": {
+		"top": "ancientarchi:block/limestone_bricks",
+		"frieze": "ancientarchi:block/limestone_bricks"
+	}
+}

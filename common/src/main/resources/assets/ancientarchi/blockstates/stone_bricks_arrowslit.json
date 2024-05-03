@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "ancientarchi:block/german/stone_bricks_arrowslit"},
+		"facing=east": { "model": "ancientarchi:block/german/stone_bricks_arrowslit", "y" : 90},
+		"facing=south": { "model": "ancientarchi:block/german/stone_bricks_arrowslit", "y" : 180},
+		"facing=west": { "model": "ancientarchi:block/german/stone_bricks_arrowslit", "y" : 270}
+	}
+}

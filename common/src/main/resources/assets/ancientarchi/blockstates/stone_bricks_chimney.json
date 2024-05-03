@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "vertical_connection=under": { "model": "ancientarchi:block/german/stone_bricks_chimney_top" },
+        "vertical_connection=both": { "model": "ancientarchi:block/german/stone_bricks_chimney_middle" },
+        "vertical_connection=above": { "model": "ancientarchi:block/german/stone_bricks_chimney_bottom" },
+        "vertical_connection=none": { "model": "ancientarchi:block/german/stone_bricks_chimney_top" }
+    }
+}

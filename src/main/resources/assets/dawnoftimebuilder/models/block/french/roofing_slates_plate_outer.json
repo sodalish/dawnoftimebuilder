@@ -1,7 +1,0 @@
-{
-	"parent": "dawnoftimebuilder:block/general/plate_outer",
-	"textures": {
-		"top": "dawnoftimebuilder:block/roofing_slates",
-		"frieze": "dawnoftimebuilder:block/roofing_slates"
-	}
-}

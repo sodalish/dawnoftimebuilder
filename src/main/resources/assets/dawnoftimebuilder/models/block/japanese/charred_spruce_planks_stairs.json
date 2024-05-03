@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "dawnoftimebuilder:block/charred_spruce_planks",
-        "top": "dawnoftimebuilder:block/charred_spruce_planks",
-        "side": "dawnoftimebuilder:block/charred_spruce_planks"
-    }
-}

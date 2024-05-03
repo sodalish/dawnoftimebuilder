@@ -1,0 +1,8 @@
+{
+	"parent": "ancientarchi:block/general/plate",
+	"textures": {
+		"side": "ancientarchi:block/stone_bricks_masonry",
+		"top": "ancientarchi:block/stone_bricks_masonry",
+		"frieze": "ancientarchi:block/stone_bricks_masonry"
+	}
+}

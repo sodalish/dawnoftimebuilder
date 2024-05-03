@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" o ",
+		"III",
+		" x "
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:smooth_sandstone_edge"
+		},
+		"o": {
+			"item": "ancientarchi:clay_tile_blue"
+		},
+		"x": {
+			"item": "ancientarchi:clay_tile_cyan"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:moraq_mosaic_relief",
+		"count": 3
+	}
+}

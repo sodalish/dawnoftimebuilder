@@ -1,0 +1,6 @@
+{
+    "parent": "ancientarchi:block/general/template_dot_pane_noside",
+    "textures": {
+        "pane": "ancientarchi:block/paper_wall"
+    }
+}

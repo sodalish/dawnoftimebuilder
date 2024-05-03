@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "ancientarchi:block/precolumbian/commelina_stage0" },
+        "age=1": { "model": "ancientarchi:block/precolumbian/commelina_stage1" },
+        "age=2": { "model": "ancientarchi:block/precolumbian/commelina_stage2" },
+        "age=3": { "model": "ancientarchi:block/precolumbian/commelina_stage3" },
+        "age=4": { "model": "ancientarchi:block/precolumbian/commelina_stage4" },
+        "age=5": { "model": "ancientarchi:block/precolumbian/commelina_stage5" },
+        "age=6": { "model": "ancientarchi:block/precolumbian/commelina_stage6" },
+        "age=7": { "model": "ancientarchi:block/precolumbian/commelina_stage7" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "ancientarchi:block/japanese/charred_spruce_foundation" },
+            { "model": "ancientarchi:block/japanese/charred_spruce_foundation", "y": 90 },
+            { "model": "ancientarchi:block/japanese/charred_spruce_foundation", "y": 180 },
+            { "model": "ancientarchi:block/japanese/charred_spruce_foundation", "y": 270 }
+        ]
+    }
+}

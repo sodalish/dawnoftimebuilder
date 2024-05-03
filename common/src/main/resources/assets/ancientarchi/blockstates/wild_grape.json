@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "ancientarchi:block/roman/wild_grape" },
+			{ "model": "ancientarchi:block/roman/wild_grape", "y": 90 },
+			{ "model": "ancientarchi:block/roman/wild_grape", "y": 180 },
+			{ "model": "ancientarchi:block/roman/wild_grape", "y": 270 }
+        ]
+    }
+}

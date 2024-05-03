@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"I",
+		"i"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:stripped_jungle_log"
+		},
+		"i": {
+			"item": "ancientarchi:plastered_stone"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:jungle_beam",
+		"count": 4
+	}
+}

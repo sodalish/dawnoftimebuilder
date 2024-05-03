@@ -1,0 +1,8 @@
+{
+	"parent": "ancientarchi:block/general/plate",
+	"textures": {
+		"side": "ancientarchi:block/red_plastered_stone",
+		"top": "ancientarchi:block/red_plastered_stone_slab",
+		"frieze": "ancientarchi:block/red_plastered_stone"
+	}
+}

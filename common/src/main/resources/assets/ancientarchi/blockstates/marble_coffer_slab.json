@@ -1,0 +1,8 @@
+
+{
+    "variants": {
+        "type=bottom": { "model": "ancientarchi:block/roman/marble_coffer_slab_bottom" },
+        "type=top": { "model": "ancientarchi:block/roman/marble_coffer_slab_top" },
+        "type=double": { "model": "ancientarchi:block/roman/marble_coffer" }
+    }
+}

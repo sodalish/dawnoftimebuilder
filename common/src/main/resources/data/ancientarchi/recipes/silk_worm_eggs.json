@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ancientarchi:silk_cocoons"
+		}
+	],
+	"result": {
+		"item": "ancientarchi:silk_worm_eggs",
+		"count": 3
+	}
+}

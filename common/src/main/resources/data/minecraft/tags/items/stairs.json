@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "ancientarchi:thatch_wheat_stairs",
+    "ancientarchi:thatch_bamboo_stairs",
+    "ancientarchi:limestone_bricks_stairs",
+    "ancientarchi:flat_roof_tiles_stairs",
+    "ancientarchi:waxed_oak_planks_stairs",
+    "ancientarchi:charred_spruce_planks_stairs",
+    "ancientarchi:gray_roof_tiles_stairs",
+    "ancientarchi:plastered_stone_stairs",
+    "ancientarchi:red_plastered_stone_stairs",
+    "ancientarchi:ochre_roof_tiles_stairs",
+    "ancientarchi:cut_sandstone_stairs",
+    "ancientarchi:roofing_slates_stairs",
+    "ancientarchi:stone_bricks_masonry_stairs",
+    "ancientarchi:sandstone_bricks_stairs"
+  ]
+}

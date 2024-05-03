@@ -1,0 +1,16 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"ctm",
+        "layer":"SOLID",
+        "textures":[
+            "ancientarchi:block/waxed_oak_framed_rammed_dirt-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+				{ "block": "ancientarchi:waxed_oak_framed_rammed_dirt" },
+				{ "block": "ancientarchi:waxed_oak_framed_rammed_dirt_pillar" }
+            ]
+        }
+    }
+}

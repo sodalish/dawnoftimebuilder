@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=down":  { "model": "ancientarchi:block/japanese/stone_lantern_up" },
+        "facing=up":  { "model": "ancientarchi:block/japanese/stone_lantern_down" },
+        "facing=west":  { "model": "ancientarchi:block/japanese/stone_lantern_side" },
+        "facing=north":  { "model": "ancientarchi:block/japanese/stone_lantern_side", "y": 90 },
+        "facing=south":  { "model": "ancientarchi:block/japanese/stone_lantern_side", "y": 270 },
+        "facing=east":  { "model": "ancientarchi:block/japanese/stone_lantern_side", "y" : 180 }
+    }
+}

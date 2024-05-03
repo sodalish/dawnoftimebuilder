@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IiI",
+		"IiI"
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:lattice_glass_pane"
+		},
+		"i": {
+			"item": "ancientarchi:waxed_oak_planks"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:lattice_waxed_oak_window",
+		"count": 16
+	}
+}

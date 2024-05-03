@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "ancientarchi:block/waxed_oak_planks"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "ancientarchi:block/ochre_roof_tiles"
+    }
+}

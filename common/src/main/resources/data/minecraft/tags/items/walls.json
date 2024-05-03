@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "ancientarchi:limestone_bricks_wall",
+    "ancientarchi:gray_roof_tiles_wall",
+    "ancientarchi:oak_wall",
+    "ancientarchi:acacia_wall",
+    "ancientarchi:dark_oak_wall",
+    "ancientarchi:birch_wall",
+    "ancientarchi:spruce_wall",
+    "ancientarchi:jungle_wall",
+    "ancientarchi:warped_wall",
+    "ancientarchi:crimson_wall",
+    "ancientarchi:ochre_roof_tiles_wall",
+    "ancientarchi:covered_sandstone_wall",
+    "ancientarchi:charred_spruce_wall",
+    "ancientarchi:terracotta_wall",
+    "ancientarchi:stone_bricks_masonry_wall",
+    "ancientarchi:sandstone_bricks_wall",
+    "ancientarchi:sandstone_bricks_turquoise_pattern_wall",
+    "ancientarchi:gold_plated_smooth_wall"
+  ]
+}

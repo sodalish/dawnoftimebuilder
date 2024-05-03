@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "ancientarchi:block/general/thatch_wheat_slab_bottom" },
+        "type=top": { "model": "ancientarchi:block/general/thatch_wheat_slab_top" },
+        "type=double": { "model": "ancientarchi:block/general/thatch_wheat" }
+    }
+}

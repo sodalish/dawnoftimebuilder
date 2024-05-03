@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"iii",
+		"III"
+	],
+	"key": {
+		"i": {
+			"item": "ancientarchi:silk"
+		},
+		"I": {
+			"item": "ancientarchi:thatch_bamboo"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:light_gray_futon"
+	}
+}

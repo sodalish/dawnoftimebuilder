@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab_top",
-    "textures": {
-        "bottom": "dawnoftimebuilder:block/thatch_wheat",
-        "top": "dawnoftimebuilder:block/thatch_wheat",
-        "side": "dawnoftimebuilder:block/thatch_wheat"
-    }
-}

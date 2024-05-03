@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ancientarchi:marble_column"
+		}
+	],
+	"result": {
+		"item": "ancientarchi:marble_sided_column",
+		"count": 2
+	}
+}

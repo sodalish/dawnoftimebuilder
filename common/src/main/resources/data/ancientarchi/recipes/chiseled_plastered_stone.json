@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"II",
+		"II"
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:plastered_stone"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:chiseled_plastered_stone",
+		"count": 4
+	}
+}

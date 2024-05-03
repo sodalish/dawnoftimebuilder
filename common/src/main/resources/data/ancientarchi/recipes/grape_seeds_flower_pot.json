@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:flower_pot"
+		},
+		{
+			"item": "ancientarchi:grape_seeds"
+		}
+	],
+	"result": {
+		"item": "ancientarchi:grape_seeds_flower_pot",
+		"count": 1
+	}
+}

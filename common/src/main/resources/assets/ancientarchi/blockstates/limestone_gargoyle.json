@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "ancientarchi:block/french/limestone_gargoyle", "y": 180  },
+        "facing=west":  { "model": "ancientarchi:block/french/limestone_gargoyle", "y": 90 },
+        "facing=south":  { "model": "ancientarchi:block/french/limestone_gargoyle" },
+        "facing=east":  { "model": "ancientarchi:block/french/limestone_gargoyle", "y" : 270 }
+    }
+}

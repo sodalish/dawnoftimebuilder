@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IiI",
+		"IiI"
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:waxed_oak_planks"
+		},
+		"i": {
+			"tag": "forge:rods/wooden"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:waxed_oak_fence",
+		"count": 6
+	}
+}

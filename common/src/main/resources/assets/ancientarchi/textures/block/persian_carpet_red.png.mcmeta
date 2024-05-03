@@ -1,0 +1,16 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"ctm",
+        "layer":"SOLID",
+        "textures":[
+            "ancientarchi:block/persian_carpet_red-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+				{ "block": "ancientarchi:persian_carpet_red" },
+				{ "block": "ancientarchi:persian_carpet_delicate_red" }
+            ]
+        }
+    }
+}

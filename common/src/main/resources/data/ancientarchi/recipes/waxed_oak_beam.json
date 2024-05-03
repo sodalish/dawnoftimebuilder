@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"i",
+		"I"
+	],
+	"key": {
+		"i": {
+			"item": "ancientarchi:waxed_oak_planks"
+		},
+		"I": {
+			"item": "minecraft:stone_bricks"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:waxed_oak_beam",
+		"count": 4
+	}
+}

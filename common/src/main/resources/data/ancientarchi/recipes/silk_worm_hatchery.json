@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ancientarchi:silk_worm_eggs"
+		},
+		{
+			"item": "ancientarchi:mulberry_leaves"
+		},
+		{
+			"item": "ancientarchi:mulberry_leaves"
+		}
+	],
+	"result": {
+		"item": "ancientarchi:silk_worm_hatchery"
+	}
+}

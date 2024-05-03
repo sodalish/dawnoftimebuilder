@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "ancientarchi:block/roman/birch_couch" },
+		"facing=west": { "model": "ancientarchi:block/roman/birch_couch", "y": 270 },
+		"facing=south": { "model": "ancientarchi:block/roman/birch_couch", "y": 180 },
+		"facing=east": { "model": "ancientarchi:block/roman/birch_couch", "y": 90 }
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" i ",
+		"iii",
+		" i "
+	],
+	"key": {
+		"i": {
+			"item": "ancientarchi:charred_spruce_planks"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:charred_spruce_pergola",
+		"count": 6
+	}
+}

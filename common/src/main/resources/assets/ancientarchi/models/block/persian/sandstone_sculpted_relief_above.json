@@ -1,0 +1,7 @@
+{
+	"parent": "ancientarchi:block/general/relief_above",
+	"textures": {
+		"side": "ancientarchi:block/sandstone_sculpted_relief_side",
+		"face": "ancientarchi:block/sandstone_sculpted_relief_face"
+	}
+}

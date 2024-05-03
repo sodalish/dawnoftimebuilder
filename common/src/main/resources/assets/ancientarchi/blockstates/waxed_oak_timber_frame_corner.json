@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "inverted=false": { "model": "ancientarchi:block/german/waxed_oak_timber_frame_corner" },
+        "inverted=true": { "model": "ancientarchi:block/german/waxed_oak_timber_frame_corner_inverted" }
+    }
+}

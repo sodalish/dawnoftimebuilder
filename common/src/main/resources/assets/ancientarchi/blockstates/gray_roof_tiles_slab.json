@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "ancientarchi:block/japanese/gray_roof_tiles_slab_bottom" },
+        "type=top": { "model": "ancientarchi:block/japanese/gray_roof_tiles_slab_top" },
+        "type=double": { "model": "ancientarchi:block/japanese/gray_roof_tiles" }
+    }
+}

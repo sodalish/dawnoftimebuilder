@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "ancientarchi:block/roman/ochre_roof_tiles_slab_bottom" },
+        "type=top": { "model": "ancientarchi:block/roman/ochre_roof_tiles_slab_top" },
+        "type=double": { "model": "ancientarchi:block/roman/ochre_roof_tiles" }
+    }
+}

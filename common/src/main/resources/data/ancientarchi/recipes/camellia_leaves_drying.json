@@ -1,0 +1,12 @@
+{
+	"type": "ancientarchi:dryer",
+	"dryingTime": 800,
+	"experience": 1.0,
+	"ingredient": {
+		"item": "ancientarchi:camellia_leaves",
+		"count": 3
+	},
+	"result": {
+		"item": "ancientarchi:tea_leaves"
+	}
+}

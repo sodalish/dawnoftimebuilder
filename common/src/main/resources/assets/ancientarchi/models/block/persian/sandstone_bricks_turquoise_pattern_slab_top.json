@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "ancientarchi:block/sandstone_bricks_turquoise_pattern",
+        "top": "ancientarchi:block/sandstone_bricks_turquoise_pattern",
+        "side": "ancientarchi:block/sandstone_bricks_turquoise_pattern"
+    }
+}

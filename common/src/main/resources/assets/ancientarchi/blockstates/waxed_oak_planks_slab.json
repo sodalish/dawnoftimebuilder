@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "ancientarchi:block/german/waxed_oak_planks_slab_bottom" },
+        "type=top": { "model": "ancientarchi:block/german/waxed_oak_planks_slab_top" },
+        "type=double": { "model": "ancientarchi:block/german/waxed_oak_planks" }
+    }
+}

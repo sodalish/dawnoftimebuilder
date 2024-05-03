@@ -1,0 +1,7 @@
+{
+	"parent": "ancientarchi:block/general/relief_above",
+	"textures": {
+		"side": "ancientarchi:block/moraq_mosaic_relief_side",
+		"face": "ancientarchi:block/moraq_mosaic_relief_face"
+	}
+}

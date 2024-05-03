@@ -1,0 +1,17 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "ancientarchi:block/moraq_mosaic_delicate"
+    },
+    "loader": "fusion:model",
+    "type": "connecting",
+    "connections": [
+        {
+            "type": "is_same_block"
+        },
+        {
+            "type": "match_block",
+            "block": "ancientarchi:moraq_mosaic_border"
+        }
+    ]
+}

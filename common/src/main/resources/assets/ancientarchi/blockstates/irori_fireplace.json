@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"lit=true": { "model": "ancientarchi:block/japanese/irori_fireplace_on" },
+		"lit=false": { "model": "ancientarchi:block/japanese/irori_fireplace_off" }
+	}
+}

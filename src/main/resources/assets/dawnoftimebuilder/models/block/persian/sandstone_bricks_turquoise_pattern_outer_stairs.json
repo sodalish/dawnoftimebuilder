@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "dawnoftimebuilder:block/sandstone_bricks_turquoise_pattern",
-        "top": "dawnoftimebuilder:block/sandstone_bricks_turquoise_pattern",
-        "side": "dawnoftimebuilder:block/sandstone_bricks_turquoise_pattern"
-    }
-}

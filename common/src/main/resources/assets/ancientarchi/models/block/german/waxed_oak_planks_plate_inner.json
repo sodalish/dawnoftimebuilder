@@ -1,0 +1,8 @@
+{
+	"parent": "ancientarchi:block/general/plate_inner",
+	"textures": {
+		"side": "ancientarchi:block/waxed_oak_planks",
+		"top": "ancientarchi:block/waxed_oak_planks",
+		"frieze": "ancientarchi:block/waxed_oak_planks"
+	}
+}

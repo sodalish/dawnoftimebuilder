@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		" I ",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:limestone_bricks"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:limestone_sided_column",
+		"count": 16
+	}
+}

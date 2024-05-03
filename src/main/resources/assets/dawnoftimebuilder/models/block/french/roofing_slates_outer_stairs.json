@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "dawnoftimebuilder:block/roofing_slates",
-        "top": "dawnoftimebuilder:block/roofing_slates",
-        "side": "dawnoftimebuilder:block/roofing_slates"
-    }
-}

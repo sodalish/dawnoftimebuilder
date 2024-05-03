@@ -1,0 +1,14 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "ancientarchi:block/roman_fresco_black_top",
+        "side": "ancientarchi:block/roman_fresco_black"
+    },
+    "loader": "fusion:model",
+    "type": "connecting",
+    "connections": [
+        {
+            "type": "is_same_block"
+        }
+    ]
+}

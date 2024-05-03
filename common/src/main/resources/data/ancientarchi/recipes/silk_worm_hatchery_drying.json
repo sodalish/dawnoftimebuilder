@@ -1,0 +1,12 @@
+{
+	"type": "ancientarchi:dryer",
+	"dryingTime": 800,
+	"experience": 1.0,
+	"ingredient": {
+		"item": "ancientarchi:silk_worm_hatchery",
+		"count": 1
+	},
+	"result": {
+		"item": "ancientarchi:silk_worms"
+	}
+}

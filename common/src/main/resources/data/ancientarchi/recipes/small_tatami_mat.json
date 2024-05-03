@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"xIx"
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:thatch_bamboo_slab"
+		},
+		"x": {
+			"item": "ancientarchi:silk"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:small_tatami_mat",
+		"count": 2
+	}
+}

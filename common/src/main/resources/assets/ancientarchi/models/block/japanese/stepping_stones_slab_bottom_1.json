@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/gravel",
+        "top": "ancientarchi:block/stepping_stones_top_1",
+        "side": "block/gravel"
+    }
+}

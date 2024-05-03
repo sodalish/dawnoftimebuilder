@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"oIo",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:sandstone_bricks"
+		},
+		"o": {
+			"item": "ancientarchi:clay_tile_cyan"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:sandstone_bricks_turquoise_pattern",
+		"count": 7
+	}
+}

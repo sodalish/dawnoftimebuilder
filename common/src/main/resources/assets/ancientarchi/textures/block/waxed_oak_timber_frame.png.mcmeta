@@ -1,0 +1,19 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"ctm",
+        "layer":"SOLID",
+        "textures":[
+            "ancientarchi:block/waxed_oak_timber_frame-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+				{ "block": "ancientarchi:waxed_oak_timber_frame" },
+				{ "block": "ancientarchi:waxed_oak_timber_frame_corner" },
+				{ "block": "ancientarchi:waxed_oak_timber_frame_crossed" },
+				{ "block": "ancientarchi:waxed_oak_timber_frame_squared" },
+				{ "block": "ancientarchi:waxed_oak_timber_frame_pillar" }
+            ]
+        }
+    }
+}

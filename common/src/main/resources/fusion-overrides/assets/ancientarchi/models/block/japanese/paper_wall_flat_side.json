@@ -1,0 +1,14 @@
+{
+    "parent": "ancientarchi:block/general/template_dot_pane_side",
+    "textures": {
+        "edge": "ancientarchi:block/paper_wall",
+        "pane": "ancientarchi:block/paper_wall_flat"
+    },
+    "loader": "fusion:model",
+    "type": "connecting",
+    "connections": [
+        {
+            "type": "is_same_block"
+        }
+    ]
+}

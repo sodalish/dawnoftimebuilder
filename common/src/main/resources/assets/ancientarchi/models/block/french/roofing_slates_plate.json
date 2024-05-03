@@ -1,0 +1,8 @@
+{
+	"parent": "ancientarchi:block/general/plate",
+	"textures": {
+		"side": "ancientarchi:block/roofing_slates",
+		"top": "ancientarchi:block/roofing_slates",
+		"frieze": "ancientarchi:block/roofing_slates"
+	}
+}

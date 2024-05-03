@@ -1,0 +1,8 @@
+{
+	"parent": "ancientarchi:block/general/small_plate_inner",
+	"textures": {
+		"side": "ancientarchi:block/flat_roof_tiles",
+		"top": "ancientarchi:block/flat_roof_tiles",
+		"frieze": "ancientarchi:block/flat_roof_tiles"
+	}
+}

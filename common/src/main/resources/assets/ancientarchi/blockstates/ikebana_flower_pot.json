@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "ancientarchi:block/japanese/ikebana_flower_pot", "y" : 90},
+        "facing=south": { "model": "ancientarchi:block/japanese/ikebana_flower_pot", "y": 180 },
+        "facing=west": { "model": "ancientarchi:block/japanese/ikebana_flower_pot", "y": 270 },
+        "facing=north": { "model": "ancientarchi:block/japanese/ikebana_flower_pot"}
+    }
+}

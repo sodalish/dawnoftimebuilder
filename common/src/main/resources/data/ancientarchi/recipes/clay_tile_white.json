@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ancientarchi:clay_tile"
+		},
+		{
+			"item": "ancientarchi:clay_tile"
+		},
+		{
+			"item": "ancientarchi:clay_tile"
+		},
+		{
+			"item": "ancientarchi:clay_tile"
+		},
+		{
+			"item": "ancientarchi:clay_tile"
+		},
+		{
+			"item": "ancientarchi:clay_tile"
+		},
+		{
+			"item": "ancientarchi:clay_tile"
+		},
+		{
+			"item": "ancientarchi:clay_tile"
+		},
+		{
+			"tag": "forge:dyes/white"
+		}
+	],
+	"result": {
+		"item": "ancientarchi:clay_tile_white",
+		"count": 8
+	}
+}

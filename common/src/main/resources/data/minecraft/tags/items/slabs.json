@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "ancientarchi:thatch_wheat_slab",
+    "ancientarchi:thatch_bamboo_slab",
+    "ancientarchi:limestone_bricks_slab",
+    "ancientarchi:flat_roof_tiles_slab",
+    "ancientarchi:waxed_oak_planks_slab",
+    "ancientarchi:charred_spruce_planks_slab",
+    "ancientarchi:charred_spruce_foundation_slab",
+    "ancientarchi:gray_roof_tiles_slab",
+    "ancientarchi:stepping_stones_slab",
+    "ancientarchi:plastered_stone_slab",
+    "ancientarchi:red_plastered_stone_slab",
+    "ancientarchi:ochre_roof_tiles_slab",
+    "ancientarchi:roofing_slates_slab"
+  ]
+}

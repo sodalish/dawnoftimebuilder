@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "ancientarchi:block/japanese/curved_raked_gravel", "y" : 90},
+        "facing=south": { "model": "ancientarchi:block/japanese/curved_raked_gravel", "y": 180 },
+        "facing=west": { "model": "ancientarchi:block/japanese/curved_raked_gravel", "y": 270 },
+        "facing=north": { "model": "ancientarchi:block/japanese/curved_raked_gravel"}
+    }
+}

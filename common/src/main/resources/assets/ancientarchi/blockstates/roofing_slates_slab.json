@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "ancientarchi:block/french/roofing_slates_slab_bottom" },
+        "type=top": { "model": "ancientarchi:block/french/roofing_slates_slab_top" },
+        "type=double": { "model": "ancientarchi:block/french/roofing_slates" }
+    }
+}

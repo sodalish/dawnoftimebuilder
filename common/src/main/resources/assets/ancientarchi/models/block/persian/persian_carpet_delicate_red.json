@@ -1,0 +1,7 @@
+{
+	"parent": "block/carpet",
+	"textures": {
+		"particle": "ancientarchi:block/persian_carpet_delicate_red",
+		"wool": "ancientarchi:block/persian_carpet_delicate_red"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"Iio"
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:limestone_bricks"
+		},
+		"i": {
+			"item": "ancientarchi:limestone_bricks_slab"
+		},
+		"o": {
+			"item": "ancientarchi:limestone_bricks_edge"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:limestone_gargoyle",
+		"count": 1
+	}
+}

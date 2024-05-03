@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "ancientarchi:block/japanese/maple_red/maple_red_trunk"},
+        "facing=east": { "model": "ancientarchi:block/japanese/maple_red/maple_red_trunk", "y" : 90},
+        "facing=south": { "model": "ancientarchi:block/japanese/maple_red/maple_red_trunk", "y": 180 },
+        "facing=west": { "model": "ancientarchi:block/japanese/maple_red/maple_red_trunk", "y": 270 }
+    }
+}

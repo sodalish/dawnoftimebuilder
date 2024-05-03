@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "axis=x": { "model": "ancientarchi:block/japanese/spruce_low_table" },
+        "axis=z": { "model": "ancientarchi:block/japanese/spruce_low_table", "y": 90 }
+    }
+}

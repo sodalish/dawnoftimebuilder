@@ -1,0 +1,7 @@
+{
+	"parent": "ancientarchi:block/general/plate_outer",
+	"textures": {
+		"top": "block/oak_planks",
+		"frieze": "block/oak_planks"
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "render_type": "minecraft:cutout",
+    "parent": "block/door_bottom_left",
+    "textures": {
+        "bottom": "ancientarchi:block/charred_spruce_door_bottom",
+        "top": "ancientarchi:block/charred_spruce_door_top"
+    }
+}

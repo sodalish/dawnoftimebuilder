@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{"model": "ancientarchi:block/japanese/sake_bottle"},
+			{"model": "ancientarchi:block/japanese/sake_bottle", "y": 90},
+			{"model": "ancientarchi:block/japanese/sake_bottle", "y": 180},
+			{"model": "ancientarchi:block/japanese/sake_bottle", "y": 270}
+		]
+	}
+}

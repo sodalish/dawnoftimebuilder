@@ -1,0 +1,7 @@
+{
+	"parent": "ancientarchi:block/general/plate_outer",
+	"textures": {
+		"top": "ancientarchi:block/ochre_roof_tiles",
+		"frieze": "ancientarchi:block/ochre_roof_tiles"
+	}
+}

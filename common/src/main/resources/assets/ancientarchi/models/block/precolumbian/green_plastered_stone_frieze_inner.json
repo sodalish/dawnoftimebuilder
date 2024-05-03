@@ -1,0 +1,8 @@
+{
+	"parent": "ancientarchi:block/general/plate_inner",
+	"textures": {
+		"side": "ancientarchi:block/plastered_stone",
+		"top": "ancientarchi:block/plastered_stone_corner",
+		"frieze": "ancientarchi:block/green_plastered_stone_frieze"
+	}
+}

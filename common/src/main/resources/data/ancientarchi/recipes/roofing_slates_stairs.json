@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"I  ",
+		"II ",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "ancientarchi:roofing_slates"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:roofing_slates_stairs",
+		"count": 6
+	}
+}

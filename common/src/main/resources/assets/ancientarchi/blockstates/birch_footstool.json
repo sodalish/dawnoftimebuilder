@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "ancientarchi:block/roman/birch_footstool", "y": 90 },
+		"facing=west": { "model": "ancientarchi:block/roman/birch_footstool" },
+		"facing=south": { "model": "ancientarchi:block/roman/birch_footstool", "y": 270 },
+		"facing=east": { "model": "ancientarchi:block/roman/birch_footstool", "y": 180 }
+	}
+}

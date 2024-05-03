@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "dawnoftimebuilder:block/ochre_roof_tiles",
-        "top": "dawnoftimebuilder:block/ochre_roof_tiles",
-        "side": "dawnoftimebuilder:block/ochre_roof_tiles"
-    }
-}

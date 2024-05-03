@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "ancientarchi:block/sandstone_bricks_turquoise_pattern",
+        "top": "ancientarchi:block/sandstone_bricks_turquoise_pattern",
+        "side": "ancientarchi:block/sandstone_bricks_turquoise_pattern"
+    }
+}

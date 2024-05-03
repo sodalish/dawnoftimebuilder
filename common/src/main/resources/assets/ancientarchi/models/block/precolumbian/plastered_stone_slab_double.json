@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "ancientarchi:block/plastered_stone",
+        "side": "ancientarchi:block/plastered_stone_slab"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "ancientarchi:block/waxed_oak_log_stripped_top",
+        "side": "ancientarchi:block/waxed_oak_log_stripped"
+    }
+}

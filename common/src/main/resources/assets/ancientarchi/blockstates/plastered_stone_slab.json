@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "ancientarchi:block/precolumbian/plastered_stone_slab_bottom" },
+        "type=top": { "model": "ancientarchi:block/precolumbian/plastered_stone_slab_top" },
+        "type=double": { "model": "ancientarchi:block/precolumbian/plastered_stone_slab_double" }
+    }
+}

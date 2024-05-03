@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "axis=x": { "model": "ancientarchi:block/japanese/straight_raked_gravel", "y": 90 },
+        "axis=z": { "model": "ancientarchi:block/japanese/straight_raked_gravel"}
+    }
+}

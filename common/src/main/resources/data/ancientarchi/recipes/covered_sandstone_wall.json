@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"IiI",
+		"III"
+	],
+	"key": {
+		"i": {
+			"item": "ancientarchi:ochre_roof_tiles"
+		},
+		"I": {
+			"item": "minecraft:sandstone_wall"
+		}
+	},
+	"result": {
+		"item": "ancientarchi:covered_sandstone_wall",
+		"count": 8
+	}
+}

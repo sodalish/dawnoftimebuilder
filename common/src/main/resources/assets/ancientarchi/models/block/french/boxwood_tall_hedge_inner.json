@@ -1,0 +1,9 @@
+{
+	"render_type": "minecraft:cutout",
+	"parent": "ancientarchi:block/general/plate_inner",
+	"textures": {
+		"side": "ancientarchi:block/boxwood_hedge",
+		"top": "ancientarchi:block/boxwood_hedge",
+		"frieze": "ancientarchi:block/boxwood_hedge"
+	}
+}

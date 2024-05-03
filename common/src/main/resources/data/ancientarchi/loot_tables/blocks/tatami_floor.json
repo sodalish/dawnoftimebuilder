@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "name": "ancientarchi:tatami_mat",
+                    "type": "minecraft:item",
+                    "conditions": [
+                        {
+                            "condition": "minecraft:block_state_property",
+                            "block": "ancientarchi:tatami_floor",
+                            "properties": {
+                                "half": "top"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

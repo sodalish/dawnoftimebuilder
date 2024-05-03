@@ -1,0 +1,16 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"ctm",
+        "layer":"SOLID",
+        "textures":[
+            "ancientarchi:block/mosaic_floor-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+				{ "block": "ancientarchi:mosaic_floor" },
+				{ "block": "ancientarchi:mosaic_floor_delicate" }
+            ]
+        }
+    }
+}

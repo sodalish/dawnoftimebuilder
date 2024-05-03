@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "dawnoftimebuilder:block/gold_plated_smooth_block",
-        "top": "dawnoftimebuilder:block/gold_plated_smooth_block",
-        "side": "dawnoftimebuilder:block/gold_plated_smooth_block"
-    }
-}

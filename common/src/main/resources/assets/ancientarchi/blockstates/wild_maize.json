@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "half=bottom": [
+            { "model": "ancientarchi:block/precolumbian/wild_maize_bottom" },
+            { "model": "ancientarchi:block/precolumbian/wild_maize_bottom", "y": 90},
+            { "model": "ancientarchi:block/precolumbian/wild_maize_bottom", "y": 180},
+            { "model": "ancientarchi:block/precolumbian/wild_maize_bottom", "y": 270}
+        ],
+        "half=top": [
+            { "model": "ancientarchi:block/precolumbian/wild_maize_top" },
+            { "model": "ancientarchi:block/precolumbian/wild_maize_top", "y": 90},
+            { "model": "ancientarchi:block/precolumbian/wild_maize_top", "y": 180},
+            { "model": "ancientarchi:block/precolumbian/wild_maize_top", "y": 270}
+        ]
+    }
+}
